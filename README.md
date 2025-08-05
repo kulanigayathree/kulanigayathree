@@ -1,4 +1,4 @@
-Hello! 👋 I'm Kulani Gayathree
+Hello! 👋 I'm **Kulani Gayathree
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Undergraduate+%40+SLIIT;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -6,11 +6,11 @@ Hello! 👋 I'm Kulani Gayathree
 
 ## 🎓 About Me
 
-- 🎯 **Third-year IT Undergraduate** at Sri Lanka Institute of Information Technology (SLIIT)
-- 💻 Passionate about **Data Science**, **Web Development**, and **Mobile Application Development**
-- 🚀 Currently diving deep into **Power BI**, **SQL**, and **Python** for data analytics
-- 🌱 Always exploring new technologies and building innovative projects
-- 📈 Goal: To become a skilled full-stack developer with expertise in data-driven solutions
+- 🎯 **Third year IT Undergraduate** at Sri Lanka Institute of Information Technology (SLIIT)
+- 💻 Passionate about **Data Engineering**, **Data Science**, and **Cloud Technologies**
+- 🚀 Currently diving deep into **SQL**, **Python**, **ETL Processes**, and **Big Data** Tools for data pipeline development
+- 🌱 Always exploring new technologies and building scalable, data-driven solutions
+- 📈 Goal: To become a skilled Data Engineer with expertise in designing and optimizing data pipelines and architectures
 
 ---
 
@@ -76,8 +76,9 @@ Hello! 👋 I'm Kulani Gayathree
 
 ### 🍵 [HanamiTea - Tea Ordering System](https://github.com/kulani-gayathree/hanamitea)
 > An elegant tea ordering platform with inventory management and customer service features.
-- **Tech Stack:** React, Express.js, MongoDB, Payment Gateway
-- **Features:** Online ordering, Inventory management, Customer reviews, Order tracking
+- **Tech Stack:** Kotlin, Android Studio, SharedPreferences
+- **Features:** Expense tracking, Budget planning, Data visualization, Financial insights
+
 
 ### 🧘‍♀️ [StressRelief - Mental Wellness App](https://github.com/kulani-gayathree/stressrelief)
 > A mobile application focused on mental health and stress management through guided activities.
