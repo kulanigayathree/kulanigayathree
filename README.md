@@ -1,4 +1,4 @@
-Hello! 👋 I'm **Kulani Gayathree
+Hello! 👋 I'm **Kulani Gayathree**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Undergraduate+%40+SLIIT;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -69,20 +69,14 @@ Hello! 👋 I'm **Kulani Gayathree
 
 ## 🚀 Featured Projects
 
-### 🌿 [Spendly - Personal Finance Tracker](https://github.com/kulani-gayathree/spendly)
-> A comprehensive finance management application to track expenses, set budgets, and analyze spending patterns.
-- **Tech Stack:** React, Node.js, MongoDB, Chart.js
-- **Features:** Expense tracking, Budget planning, Data visualization, Financial insights
+### 🌿 [Soren - Simple JSON ChatBot](https://github.com/kulanigayathree/json_chatbot-python)
+> A lightweight chatbot application that processes and responds to user inputs using JSON-based data handling.
+- **Tech Stack:** Python, HTML, CSS
+- **Features:** Customizable responses, JSON-based data storage, Interactive chat interface
 
-### 🍵 [HanamiTea - Tea Ordering System](https://github.com/kulani-gayathree/hanamitea)
-> An elegant tea ordering platform with inventory management and customer service features.
-- **Tech Stack:** Kotlin, Android Studio, SharedPreferences
-- **Features:** Expense tracking, Budget planning, Data visualization, Financial insights
-
-
-### 🧘‍♀️ [StressRelief - Mental Wellness App](https://github.com/kulani-gayathree/stressrelief)
-> A mobile application focused on mental health and stress management through guided activities.
-- **Tech Stack:** Kotlin, Android Studio, Firebase
+### 🧘‍♀️ [Zenity - StressRelief App](https://github.com/kulanigayathree/Figma-StressRelief)
+> A calming mobile app designed to promote mental well-being and reduce stress through engaging, guided activities.
+- **Tech Stack:** Figma
 - **Features:** Meditation guides, Mood tracking, Relaxation exercises, Progress analytics
 
 ---
@@ -101,10 +95,11 @@ Machine Learning    ██████████░░░░░░░░░░
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **Dean's List** - Academic Excellence (2023)
-- 📜 **Google Analytics Certified** - Digital Marketing
-- 🏅 **SQL Fundamentals** - HackerRank Gold Badge
-- 🎯 **Python Programming** - Coursera Certificate
+- 🎓 **Introduction to Data Science** – Cisco Networking Academy
+- 📊 **Visualize Your Data** – Sololearn
+- 💻 **Coding for Data** – Sololearn
+- 🤖 **Introduction to Modern AI** – Cisco Networking Academy
+- ✏️ **Prompt Engineering** – Sololearn
 
 ---
 
@@ -112,10 +107,10 @@ Machine Learning    ██████████░░░░░░░░░░
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulani-gayathree/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulani.gayathree@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulani-gayathree)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kulani-gayathree.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kulani-gayathree-19174a278)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulanigayathree99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulanigayathree)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kulanigayathree.github.io/portfolio/)
 
 </div>
 
