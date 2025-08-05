@@ -126,7 +126,7 @@ Machine Learning    ██████████░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulani-gayathree&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kulanigayathree&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
