@@ -1,7 +1,7 @@
 # Hello! 👋 I'm **Kulani Gayathree**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Undergraduate+%40+SLIIT;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Undergraduate+%40+SLIIT;Data+Science+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
