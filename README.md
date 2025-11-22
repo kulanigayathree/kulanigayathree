@@ -9,7 +9,7 @@
 - 🎯 **Third year IT Undergraduate** at Sri Lanka Institute of Information Technology (SLIIT)
 - 💻 Passionate about **Data Engineering**, **Data Science**, and **Cloud Technologies**
 - 🚀 Currently diving deep into **SQL**, **Python**, **ETL Processes**, and **Big Data** Tools for data pipeline development
-- 🌱 Always exploring new technologies and building scalable, data-driven solutions
+- 🌱 Always exploring new technologies and building scalable, data driven solutions
 - 📈 Goal: To become a skilled Data Engineer with expertise in designing and optimizing data pipelines and architectures
 
 ---
